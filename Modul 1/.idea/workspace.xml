@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7771e238-30f9-4b40-9528-821e2a926cb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iTxUlqEMrGsQjvbgEGUaM0Yd4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/ditobakhtiarrifai/modul1/Manusia" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Modul 1\src\com\ditobakhtiarrifai\modul1\Manusia" />
+      <recent name="D:\Modul 1\src\com\ditobakhtiarrifai\modul1\Pass" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoManusia (1)">
+    <configuration name="DemoManusia (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ditobakhtiarrifai.modul1.Manusia.DemoManusia" />
+      <module name="Modul 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ditobakhtiarrifai.modul1.Manusia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoManusia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Manusia.DemoManusia" />
+      <module name="Modul 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Manusia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Passed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pass.Passed" />
+      <module name="Modul 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="objek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ditobakhtiarrifai.modul1.objek" />
+      <module name="Modul 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ditobakhtiarrifai.modul1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoManusia (1)" />
+        <item itemvalue="Application.DemoManusia" />
+        <item itemvalue="Application.Passed" />
+        <item itemvalue="Application.objek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7771e238-30f9-4b40-9528-821e2a926cb7" name="Default Changelist" comment="" />
+      <created>1601945400121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601945400121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1601950409506">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1601950409506" />
+    <state width="1237" height="451" key="GridCell.Tab.0.bottom" timestamp="1601950777592">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="451" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1601950777592" />
+    <state width="1237" height="451" key="GridCell.Tab.0.center" timestamp="1601950777592">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="451" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1601950777592" />
+    <state width="1237" height="451" key="GridCell.Tab.0.left" timestamp="1601950777592">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="451" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1601950777592" />
+    <state width="1237" height="451" key="GridCell.Tab.0.right" timestamp="1601950777592">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="451" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1601950777592" />
+  </component>
+</project>
